@@ -1,0 +1,6 @@
+{
+  "name": "ResumeIQ",
+  "description": "AI-Powered Resume Analyzer & Career Assistant. Analyze resumes with AI, estimate ATS compatibility, detect skill gaps, and optimize for target jobs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
